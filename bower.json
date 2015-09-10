@@ -1,0 +1,8 @@
+{
+  "name": "imd-issue",
+  "private": true,
+  "dependencies": {
+    "imd": "PolymerLabs/IMD#~1.0.0",
+    "webcomponentsjs": "~0.7.12"
+  }
+}
